@@ -1,5 +1,5 @@
 # disdox.py
-Discord Doxxing Python script based on WebHooks and Pastebin for Windows
+Discord Doxxing Python (Recommended 3.11+) script based on WebHooks and Pastebin for Windows
 
 The script provides the user with the target's location, entire network configuration, PC and account names.
 
